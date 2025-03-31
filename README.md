@@ -1,4 +1,4 @@
-## Hey jahvani-muniz
+## Hey👋 I'm Jahvani, an aspiring data analyst!
 I'm Jahvani, a data analytics enthusiast with a background in experimental psychology. I enjoy uncovering insights from data and applying analytical skills to real-world problems.  
 
 Currently, I am developing the hard skills needed to become a data analyst through Tripleten’s intensive training program. Throughout the course, I have gained hands-on experience with SQL, Tableau, Google Sheets, and Power BI. I have worked on a handful of projects that mirror real-world scenarios, such as analyzing business performance metrics and optimizing marketing strategies using data-driven insights. These projects have allowed me to apply my skills in practical settings, reinforcing my ability to interpret data and communicate findings effectively.
